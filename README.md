@@ -1,2 +1,8 @@
-# cv-lib-prac
-Computer Vision Library Demo repository with the various usage cases.
+# Computer Vision Libaray Demo
+
+## Overview
+
+## Content
+
+## How to run
+
